@@ -75,3 +75,26 @@ button{
     margin-bottom: 10px;
     cursor: pointer;
 }
+@media screen and (max-width: 500px) {
+    .caixa-imagem {
+        display: none;
+    }
+    .caixa-form {
+        width: 90%;
+        padding: 20px;
+        text-align: center;
+    }
+    .celular {
+        width: 100%;
+    }
+    .imagem-insta {
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: auto;
+    }
+    input, button {
+        width: 100%;
+    }
+    
+}
