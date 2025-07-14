@@ -2,17 +2,15 @@
 
 Este projeto é uma recriação da página de login do Instagram, desenvolvido com o objetivo de praticar e demonstrar habilidades em desenvolvimento web front-end.
 
-## 📱 Preview do Projeto
+O p## 🎨 Preview do Projeto
 
 <div align="center">
 
-![Mockup dos Dispositivos](./img/mockup.png)
+![Mockup dos Dispositivos](./projeto%20instagram/img/mockup.png)
 
 _Interface moderna e responsiva em todos os dispositivos_
 
-</div>
-
-O projeto consiste em uma página responsiva que replica a interface de login do Instagram, incluindo:
+</div>rojeto consiste em uma página responsiva que replica a interface de login do Instagram, incluindo:
 
 - Layout similar à página oficial do Instagram
 - Formulário de login
